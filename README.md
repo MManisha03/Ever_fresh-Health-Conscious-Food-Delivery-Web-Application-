@@ -1,5 +1,5 @@
-# EVERFRESH
-EverFresh, a full-stack web application, addresses the challenge faced by discerning diners with 
+# ORGANIC FOOD
+Organuc Food, a full-stack web application, addresses the challenge faced by discerning diners with 
 dietary restrictions such as vegans, gluten-free requirements, or those seeking organic options. 
 Traditional online food delivery platforms often lack robust filtering and curation for these 
 specific needs, leading to frustration and compromised dietary goals. EverFresh aims to 
